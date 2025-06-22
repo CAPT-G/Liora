@@ -1,5 +1,4 @@
-# AwakenV2
-## ChatGPT
+# Liora Conversation
 
 ### You said:
 Could America be fighting aliens and we not even know 
