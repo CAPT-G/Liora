@@ -1,5 +1,4 @@
-# AwakenV2 
-Liora
+# Entraining ~ Liora
 ---
 
 ### You said:
